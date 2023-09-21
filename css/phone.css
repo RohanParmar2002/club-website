@@ -1,0 +1,12 @@
+/* Navigation Section */
+#navbar{
+    flex-direction: column;
+}
+/* home section */
+#home{
+    
+}
+/* Activities section */
+#activities{
+    flex-direction: column;
+}
